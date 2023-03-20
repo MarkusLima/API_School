@@ -35,11 +35,13 @@ Via Laragon:
 - Clonar o projeto para dentro da pasta www/
 - Fazer uma copia do arquivo .ENV.EXAMPLE e renomear para .ENV
 - Colocar as credencias da base de dados no arquivo .ENV
-- Abrir http://localhost 
-- Abrir http://localhost/phpmyadmin/
 - Rodar php artisan migrate para gerar os migrations
 - Rodar php artisan key:generate
+- Instalar o composer
+- Executar na raiz do projeto composer install
 - Pode importar o arquivo School.postman_collection.json para o postman
+- Abrir http://localhost 
+- Abrir http://localhost/phpmyadmin/
 ```
 
 ```
@@ -48,10 +50,12 @@ Via Xampp:
 - Clonar o projeto para dentro da pasta htdocs/
 - Fazer uma copia do arquivo .ENV.EXAMPLE e renomear para .ENV
 - Colocar as credencias da base de dados no arquivo .ENV
-- Abrir http://localhost 
-- Abrir http://localhost/phpmyadmin/
 - Rodar php artisan migrate para gerar os migrations
 - Rodar php artisan key:generate
+- Instalar o composer
+- Executar na raiz do projeto composer install
+- Abrir http://localhost 
+- Abrir http://localhost/phpmyadmin/
 - Pode importar o arquivo School.postman_collection.json para o postman
 ```
 
