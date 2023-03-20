@@ -54,6 +54,7 @@ Via Xampp:
 - Rodar php artisan key:generate
 - Instalar o composer
 - Executar na raiz do projeto composer install
+- Rodar php artisan serve
 - Abrir http://localhost 
 - Abrir http://localhost/phpmyadmin/
 - Pode importar o arquivo School.postman_collection.json para o postman
